@@ -39,7 +39,7 @@ const k_muppet = {
 };
 
 const keys = [name, color, album, job, partner] 
-const {k_muppet} = keys
+const {k_name, k_color, k_album, k_job, k_partner} = keys
 const {song_2, song_4} = k_muppet.k_album.the_muppet_movie
 
 
