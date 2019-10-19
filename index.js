@@ -38,7 +38,8 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const {name, color, album, job, partner} = k_muppet
+const keys = [name, color, album, job, partner] 
+const {k_muppet} = keys
 const {song_2, song_4} = k_muppet.k_album.the_muppet_movie
 
 
